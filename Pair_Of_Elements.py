@@ -10,7 +10,7 @@ class Pair_Of_Elements:
                 # Returning the index of the number
                 return(lookup[target - num], i)
             # Adding the number to the dictionary
-            lookup[num] = i10
+            lookup[num] = i
 
 # Take input from the user
 value = int(input('Enter the sum for which you want to make this search: '))
